@@ -11,6 +11,8 @@
     justify-content: center;
     align-items: center;
     color: red;
+    font-size: 30px;
+    padding-top: 15px;
 
 }
 
@@ -31,6 +33,7 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+   
 }
 
 .mostrar_promos {
@@ -49,7 +52,21 @@ main {
     gap: 10px;
     margin-top: 15px;
     color: red;
+    font-size: 25px;
 
+}
+#title{
+    font-size: 50px;
+}
+#form{
+    font-size: 35px;
+}
+#pizza-Input{
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    border-radius: 5px;
+    color: black;
 }
 
 #btn {
@@ -58,6 +75,9 @@ main {
     padding: 5px;
     border-radius: 5px;
     border: none;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
 }
 
 .imagen_id {
@@ -65,15 +85,15 @@ main {
     align-items: center;
     justify-content: center;
     border: none;
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     overflow: hidden;
    
 }
 
 #imgimg {
-    height: 200px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
     padding: 5px;
     border-radius: 25px;
 
